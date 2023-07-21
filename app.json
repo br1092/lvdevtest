@@ -1,0 +1,36 @@
+{
+  "id": "5eeb3f83-fdf4-47a1-b96f-43dd702daac6",
+  "name": "LV Development Task",
+  "publisher": "Benito Ramirez",
+  "version": "1.0.0.0",
+  "brief": "LV Development Task",
+  "description": "This extension contains a solution to the AL/Business Central development task provided by Loan Vision.",
+  "privacyStatement": "https://businesscentral.dynamics.com/",
+  "EULA": "https://www.microsoft.com/en-us/download/details.aspx?id=56765",
+  "help": "https://support.microsoft.com/en-us",
+  "contextSensitiveHelpUrl": "https://www.learn.microsoft.com",
+  "url": "https://www.microsoft.com",
+  "logo": "./img/business-central-logo.png",
+  "applicationInsightsConnectionString": "",
+  "applicationInsightsKey": "00000000-0000-0000-0000-000000000000",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 14135100,
+      "to": 14135999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
